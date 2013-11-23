@@ -1,0 +1,21 @@
+/* -----------------------------------
+Site:       Pathways
+CSS author: Russ Weakley
+Updated:    2/11/09
+Updated by: Russ Weakley
+----------------------------------- */
+
+#header form { width: 290px; }
+#header form a { height: 1%; }
+#homecol1 { display: inline; }
+.module dd.instructions { display: inline; }
+#homecol2 { display: inline; }
+#footer-container { height: 1%; }
+#extras { display: inline; }
+#main { display: inline; }
+#advanced-search div { height: 1%; }
+#in-page-navigation { height: 1%; }
+ul.pagination { height: 1%; }
+pre {
+  font-size:80%;
+}
