@@ -17,7 +17,7 @@ body
     padding: 0;
     font: 100%/1.4 helvetica, arial, sans-serif;
     color: #444;
-    background: white url(/images/background.jpg) repeat;
+    background: white url(images/background.jpg) repeat;
 }
 
 #content
@@ -82,15 +82,15 @@ display:block;
     height:54px;
 }
 #sn>div.facebook{
-    background: transparent url(/images/sn/facebook.png) no-repeat;
+    background: transparent url(images/sn/facebook.png) no-repeat;
     text-indent: -3000px;                 /* sends the text off-screen */
 
 }
 #sn>div.twitter{
-    background: transparent url(/images/sn/twitter.png) no-repeat;
+    background: transparent url(images/sn/twitter.png) no-repeat;
 }
 #sn>div.googleplus{
-  background: transparent url(/images/sn/googleplus.png) no-repeat;
+  background: transparent url(images/sn/googleplus.png) no-repeat;
 }
 
 #content #col5 a{
@@ -102,7 +102,7 @@ display:block;
 {
     width:451px;
     height:76px;
-    background: white url(/images/logo.png) no-repeat;
+    background: white url(images/logo.png) no-repeat;
     text-indent: -9999px;
     margin-left:10px;
     margin-top:5px;
